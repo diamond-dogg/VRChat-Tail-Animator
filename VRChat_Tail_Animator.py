@@ -29,7 +29,7 @@ def main():
     bone_curl_B_max = 13.0
 
 
-    # Bone paths (make sure this aligns with your actual bone hierarchy). Should typically start with Armature, do not start with your avatar prefab name itself.
+    # Bone paths (make sure this aligns with your actual bone hierarchy).
     tail_bones = [
         "Armature/Hips/tailroot",
         "Armature/Hips/tailroot/tail1",
